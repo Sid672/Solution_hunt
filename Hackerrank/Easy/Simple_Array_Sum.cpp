@@ -9,7 +9,8 @@ using namespace std;
 
 vector<string> split_string(string);
 
-
+// This function calculate the sum of
+// all elements of array using a loop.
 int simpleArraySum(vector<int> ar) {
     int sum = 0;
     for (int i = 0; i < ar.size(); i++)
@@ -20,6 +21,8 @@ int simpleArraySum(vector<int> ar) {
     return sum;
 }
 
+// Main function which is already completed
+// by the Hackerrank website.
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
