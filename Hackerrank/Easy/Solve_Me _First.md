@@ -1,8 +1,7 @@
-/*
-* Author: Siddharth (Sid672)
-* Link of problem: https://www.hackerrank.com/challenges/solve-me-first/problem
-*/
+Problem : [Problem Link](https://www.hackerrank.com/challenges/solve-me-first/problem)
 
+Author : [@Sid672](https://github.com/Sid672)
+```cpp
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -24,3 +23,4 @@ int main() {
   cout<<sum;
   return 0;
 }
+```
