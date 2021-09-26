@@ -1,6 +1,8 @@
 # Solution_hunt
-This repo is open to anyone who solve problems or learn algorithms.
+**This repo is open to anyone who solve problems and learn algorithms.**
 
+Join us on Slack for project discussion, chating, learning and more.
+[Code Club](https://app.slack.com/client/T01LCB5SH6Z/G01LGNNJ1FC)
 ## Steps to contribute.
 1) Fork the repository.
 
