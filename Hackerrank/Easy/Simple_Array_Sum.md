@@ -1,8 +1,9 @@
-/*
- * Author: Sid672
- * Problem link: https://www.hackerrank.com/challenges/simple-array-sum/problem
- */
+Problem: [Problem link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
+Author: [@Sid672](https://github.com/Sid672)
+  
+
+```c++
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -81,4 +82,4 @@ vector<string> split_string(string input_string) {
 
     return splits;
 }
-
+```
