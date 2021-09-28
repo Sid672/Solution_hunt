@@ -1,4 +1,4 @@
-Problem: [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/196085988)
+Problem: [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 Author: [@Sid672](https://github.com/Sid672)
 
