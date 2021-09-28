@@ -5,7 +5,6 @@ Author: [@shivesh01](https://github.com/shivesh01)
 
 ```c++
 #include <bits/stdc++.h>
-#include <cmath>
 using namespace std;
 
 string ltrim(const string &);
@@ -17,7 +16,8 @@ vector<string> split(const string &);
  *
  * The function accepts INTEGER_ARRAY arr as parameter.
  */
-```c++
+
+/-------------------------------------------------------------------------
 void stdDev(vector<int> arr) {
     // Print your answers to 1 decimal place within this function
     float mean = 0;
@@ -48,7 +48,8 @@ void stdDev(vector<int> arr) {
 
 
 }
-```
+/-------------------------------------------------------------------------
+
 
 int main()
 {
