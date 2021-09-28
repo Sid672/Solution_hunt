@@ -1,4 +1,4 @@
-Problem : [Problem link](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+Problem : [Link](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 
 Author: [@Sid672](https://github.com/Sid672)
 
